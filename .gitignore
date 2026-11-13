@@ -1,0 +1,27 @@
+
+# Virtual environments
+myenv312/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Local vector databases
+chroma_db/
+chroma.sqlite3
+
+# Logs
+*.log

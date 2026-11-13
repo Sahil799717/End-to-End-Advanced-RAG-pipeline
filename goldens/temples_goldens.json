@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "TC01",
+    "query": "Where is Jagannath temple located?",
+    "ideal_answer": "Jagannath temple is located in Puri, Odisha, India.",
+    "reference_context": "The Jagannath Temple is situated in the city of Puri in the Indian state of Odisha."
+  },
+  {
+    "id": "TC02",
+    "query": "Who are the principal deities of Jagannath temple?",
+    "ideal_answer": "The principal deities are Lord Jagannath, Lord Balabhadra and Devi Subhadra.",
+    "reference_context": "The main deities worshipped in the Jagannath Temple are Lord Jagannath, his elder brother Balabhadra and his sister Subhadra."
+  },
+  {
+    "id": "TC03",
+    "query": "What is Rath Yatra?",
+    "ideal_answer": "Rath Yatra is the annual chariot festival in which the deities Jagannath, Balabhadra and Subhadra are taken out in decorated chariots.",
+    "reference_context": "Rath Yatra is an annual festival associated with Jagannath Temple. The deities Jagannath, Balabhadra and Subhadra are placed on separate decorated chariots and taken in a procession."
+  },
+  {
+    "id": "TC04",
+    "query": "What is Mahaprasad in Jagannath temple?",
+    "ideal_answer": "Mahaprasad refers to the sacred food offering associated with Lord Jagannath and distributed as blessed food.",
+    "reference_context": "Mahaprasad is the sacred food offering of Lord Jagannath. It is prepared as an offering and subsequently distributed to devotees as blessed food."
+  },
+  {
+    "id": "TC05",
+    "query": "Which three deities participate in Rath Yatra?",
+    "ideal_answer": "Lord Jagannath, Lord Balabhadra and Devi Subhadra participate in Rath Yatra.",
+    "reference_context": "The three principal deities of Jagannath Temple, Jagannath, Balabhadra and Subhadra, participate in the annual Rath Yatra procession."
+  },
+  {
+    "id": "TC06",
+    "query": "What is the religious significance of Jagannath temple?",
+    "ideal_answer": "Jagannath Temple is an important Hindu pilgrimage site dedicated to Lord Jagannath and is a major centre of Vaishnavite worship.",
+    "reference_context": "Jagannath Temple in Puri is an important Hindu pilgrimage destination dedicated to Lord Jagannath and is associated with Vaishnavite religious traditions."
+  },
+  {
+    "id": "TC07",
+    "query": "What happens during the annual Rath Yatra festival?",
+    "ideal_answer": "During Rath Yatra, the three principal deities are placed on decorated chariots and taken in a ceremonial procession.",
+    "reference_context": "During the annual Rath Yatra, the idols of Jagannath, Balabhadra and Subhadra are placed on their respective chariots and taken in a ceremonial procession."
+  },
+  {
+    "id": "TC08",
+    "query": "Who is Lord Balabhadra in relation to Lord Jagannath?",
+    "ideal_answer": "Lord Balabhadra is the elder brother of Lord Jagannath.",
+    "reference_context": "In the Jagannath tradition, Balabhadra is regarded as the elder brother of Lord Jagannath, while Subhadra is their sister."
+  }
+]
